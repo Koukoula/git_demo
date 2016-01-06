@@ -1,0 +1,3 @@
+Use git status first.
+Git add (use . to add everything.)
+Then, git push to well... push it.
